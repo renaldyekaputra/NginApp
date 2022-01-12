@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "301468469997",
+    "project_id": "nginapp-435de",
+    "storage_bucket": "nginapp-435de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301468469997:android:3fd6ecd86dc5a8628e5ae4",
+        "android_client_info": {
+          "package_name": "com.nginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301468469997-dcp0njk1d68uuotu8ueaqlk8ojb9m407.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0qFwqPFB2h1TaYtzkOlUDmd42z5_yOO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301468469997-dcp0njk1d68uuotu8ueaqlk8ojb9m407.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
